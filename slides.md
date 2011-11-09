@@ -1,9 +1,18 @@
 Educating the Business
-=========
+======================
+Tim_O'Brien
+:backend:   slidy
+:max-width: 45em
+:data-uri:
+:icons:
+:toc!:
+:slidetitleindentcar: >>
+v1.0, November 2011: ApacheCon 2011
 
 How to introduce Open Source to your Boss (without creating a monster).
 
 ---
+
  
 Warning about Stakeholders
 ========
